@@ -5,6 +5,7 @@ typedef struct Node1{
 	unsigned int b: 9;
 }	Node1; 
 
+//Forced alignment 
 typedef struct Node2{
 	unsigned int a: 6;
 	unsigned int: 0;
