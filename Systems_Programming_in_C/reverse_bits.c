@@ -9,8 +9,4 @@ int main(int argc, char argv[])
     printf("Original : %d (binary : %08b)\n", byte, byte);
     printf("Reversed : %d (binary : %08b)\n", rev, rev); 
 
-    unsigned char tx = 0b00001011;
-    printf("Test byte %d\n", tx);
-
-
 }
